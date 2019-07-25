@@ -32,6 +32,9 @@
  git clone --recurse-submodules https://github.com/laurent68k/MainProject.git
  
  
- ...
+ Mettre à jour les sous-modules d'un projet:
+ 
+ git submodule update --remote
+ 
  
  */
